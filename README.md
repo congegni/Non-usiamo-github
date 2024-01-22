@@ -3,7 +3,7 @@
 Congegni si fonda su delle scelte mirate a sostenere il nostro pensiero
 comune, basato su alcuni principi etici che riteniamo fondamentali:
 
-\- Creadiamo nella dignità del lavoratore e nei pari diritti per tutte e
+\- Crediamo nella dignità del lavoratore e nei pari diritti per tutte e
 tutti;
 
 \- Nella sostenibilità intesa come rispetto dell'ambiente in contrasto
