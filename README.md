@@ -1,4 +1,8 @@
+[Congegni Git](https://git.congegni.net/)
+
 ## Perché Congegni non utilizza github
+
+*EN translation below.*
 
 Congegni si fonda su delle scelte mirate a sostenere il nostro pensiero
 comune, basato su alcuni principi etici che riteniamo fondamentali:
@@ -71,3 +75,52 @@ Concisamente, queste sono le motivazioni della nostra scelta:
 
 Queste motivazioni ci hanno portato a evitare GitHub, un monopolista
 nell'hosting di codice.
+
+///////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+## Why Congegni won't host its repo on GitHub
+
+Congegni is built on fundamental choices that support our common thoughts and beliefs.
+These decisions are based on certain ethical principles that we consider fundamental:
+
+\- We believe in workers dignity and equal rights for everyone;
+
+\- In sustainability, meaning respect for the environment in contrast to extractive practices;
+
+\- In the decentralization of technologies and the sharing of knowledge, as opposed to the monopolies of large technology companies;
+
+\- In the use of open source licenses for software;
+
+\- In general practices of anti-sexism, anti-racism and anti-ableism.
+
+The list above includes our refusal to use GitHub for hosting our repos, both internal and public.
+
+Concisely, these are the reasons for our choices:
+
+1.  **Copilot and open source violations**.
+
+    GitHub's Copilot, an AI dedicated to code generation built on open source code, has been accused of violating the laws on copyright and software licensing requirements.
+    The complaint suggests that Copilot reuses licensed open source code thereby violating the copyright law, and moreover, without making their clients aware during CoPilot use.
+
+2.  **Hosting open source, keeping closed-source**
+
+    GitHub is one of the few Git hosting services that is completely closed-source.
+    An interesting paradox given its campaigns to fund open source projects in addition to the direct contributions of its employees.
+
+3.  **Censorship based on geographic origin**.
+ 
+    GitHub has restricted developers from Crimea, Cuba, Iran, North Korea and Syria due to trade sanctions put in place by the United States.
+    This has affected access to private repositories and paid accounts, raising concerns about censorship and access limitations.
+    This (tweet)\[<https://nitter.net/saeed_taheri/status/1154610242396872710#m>\](link to Nitter) shows a developer's appeal to github support and the subsequent rebound of the request.
+
+5.  **Contract with Immigration and Customs Enforcement (ICE)**.
+
+    GitHub has a for-profit contract with ICE, a U.S. federal agency responsible for border security and immigration monitoring.
+    Despite numerous requests from activists and open letters from employees asking to cancel the contract, GitHub has continued its contract with ICE.
+    This raised ethical concerns about the priorities and values of the company.
+
+5.  **Accusations of misconduct**
+
+    There have been allegations of bullying and sexual harassment involving the CEO and other executives, raising more than a few doubts about the internal culture and leadership of the company.
+
+These motivations led us to avoid GitHub, a monopolist in code hosting.
