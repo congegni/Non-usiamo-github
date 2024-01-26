@@ -1,8 +1,6 @@
-[Congegni Git](https://git.congegni.net/)
+[Congegni Git](https://git.congegni.net/) - *EN translation below.*
 
 ## Perché Congegni non utilizza github
-
-*EN translation below.*
 
 Congegni si fonda su delle scelte mirate a sostenere il nostro pensiero
 comune, basato su alcuni principi etici che riteniamo fondamentali:
