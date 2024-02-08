@@ -50,7 +50,7 @@ Concisamente, queste sono le motivazioni della nostra scelta:
     Ciò ha influenzato l\'accesso ai repository privati e agli account a
     pagamento, sollevando preoccupazioni sulla censura e sulle
     limitazioni di accesso.
-    Questo [tweet, link a Nitter,][<https://nitter.net/saeed_taheri/status/1154610242396872710#m>],
+    Questo [tweet](<https://nitter.net/saeed_taheri/status/1154610242396872710#m>) (link a Nitter),
     mostra l'appello di uno sviluppatore al supporto di
     github e il conseguente rimbalzo della richiesta.
 
@@ -109,7 +109,7 @@ Concisely, these are the reasons for our choices:
  
     GitHub has restricted developers from Crimea, Cuba, Iran, North Korea and Syria due to trade sanctions put in place by the United States.
     This has affected access to private repositories and paid accounts, raising concerns about censorship and access limitations.
-    This [tweet, Nitter link,][<https://nitter.net/saeed_taheri/status/1154610242396872710#m>] shows a developer's appeal to github support and the subsequent rebound of the request.
+    This [tweet](<https://nitter.net/saeed_taheri/status/1154610242396872710#m>) (link to Nitter) shows a developer's appeal to github support and the subsequent rebound of the request.
 
 5.  **Contract with Immigration and Customs Enforcement (ICE)**.
 
