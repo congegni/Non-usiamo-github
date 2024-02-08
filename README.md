@@ -30,18 +30,19 @@ Concisamente, queste sono le motivazioni della nostra scelta:
     Copilot di GitHub, un\'AI costruita su codice open source dedicata
     alla generazione di codice, è stata accusata di violare le leggi sul
     copyright e i requisiti di licenza del software.
-    Nel ricorso si afferma che Copilot riutilizza il codice con licenza
+    
+    Nel ricorso si afferma che Copilot riutilizzerebbe il codice con licenza
     open source pubblicato dai suoi utenti violando in tal modo la legge
     sul copyright e presentando il codice altrui come proprio.
 
-2.  **Ospitare open source, mantenendosi closed-source**
+3.  **Ospitare open source, mantenendosi closed-source**
 
     GitHub è uno dei pochi servizi di hosting per Git completamente closed-source.
     Un interessante paradosso visto le sue campagne di finanziamento di
     progetti open source oltre ai contributi diretti dei suoi
     dipendenti.
 
-3.  **Censura basata sulla provenienza geografica**
+4.  **Censura basata sulla provenienza geografica**
    
     GitHub ha limitato gli sviluppatori di Crimea, Cuba, Iran, Corea
     del Nord e Siria a causa delle sanzioni commerciali messe in atto
@@ -49,12 +50,11 @@ Concisamente, queste sono le motivazioni della nostra scelta:
     Ciò ha influenzato l\'accesso ai repository privati e agli account a
     pagamento, sollevando preoccupazioni sulla censura e sulle
     limitazioni di accesso.
-    Questo
-    (tweet)\[<https://nitter.net/saeed_taheri/status/1154610242396872710#m>\]
-    (link a Nitter), mostra l'appello di uno sviluppatore al supporto di
+    Questo [tweet, link a Nitter,][<https://nitter.net/saeed_taheri/status/1154610242396872710#m>],
+    mostra l'appello di uno sviluppatore al supporto di
     github e il conseguente rimbalzo della richiesta.
 
-4.  **Contratto con l\'Immigration and Customs Enforcement (ICE)**
+6.  **Contratto con l\'Immigration and Customs Enforcement (ICE)**
 
     GitHub ha un contratto di servizi software a scopo di lucro con
     l\'ICE, agenzia federale statunitense che si occupa del controllo
@@ -65,7 +65,7 @@ Concisamente, queste sono le motivazioni della nostra scelta:
     Ciò ha sollevato preoccupazioni etiche riguardo alle priorità e ai
     valori dell\'azienda.
 
-5.  **Accuse di cattiva condotta**
+7.  **Accuse di cattiva condotta**
 
     Ci sono state accuse di mobbing e molestie sessuali che
     coinvolgono il CEO e altri dirigenti, suscitando più di qualche
@@ -109,7 +109,7 @@ Concisely, these are the reasons for our choices:
  
     GitHub has restricted developers from Crimea, Cuba, Iran, North Korea and Syria due to trade sanctions put in place by the United States.
     This has affected access to private repositories and paid accounts, raising concerns about censorship and access limitations.
-    This (tweet)\[<https://nitter.net/saeed_taheri/status/1154610242396872710#m>\](link to Nitter) shows a developer's appeal to github support and the subsequent rebound of the request.
+    This [tweet, Nitter link,][<https://nitter.net/saeed_taheri/status/1154610242396872710#m>] shows a developer's appeal to github support and the subsequent rebound of the request.
 
 5.  **Contract with Immigration and Customs Enforcement (ICE)**.
 
